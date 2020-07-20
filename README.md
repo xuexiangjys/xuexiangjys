@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**xuexiangjys/xuexiangjys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 公众号   | 掘金     |  知乎    |  CSDN   |   简书   
+|---------|---------|--------- |---------|---------|
+| [我的Android开源之旅](https://github.com/xuexiangjys/Resource/raw/master/img/qq/winxin.jpg)  |  [点我](https://juejin.im/user/598feef55188257d592e56ed/posts)    |   [点我](https://www.zhihu.com/people/xuexiangjys/posts)       |   [点我](https://xuexiangjys.blog.csdn.net/)  |   [点我](https://www.jianshu.com/u/6bf605575337)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  爱码士，擅长设计模式，架构设计，移动设备通讯，App快捷开发。
+
+-  专注Android移动开发技术，提高开发的效率！
+
+-  码云同步地址：https://gitee.com/xuexiangjys
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys)](https://github.com/xuexiangjys)
