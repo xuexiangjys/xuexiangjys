@@ -12,3 +12,5 @@
 -  码云同步地址：https://gitee.com/xuexiangjys
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys)](https://github.com/xuexiangjys)
+
+<a title="Hits" target="_blank" href="https://github.com/xuexiangjys/xuexiangjys"><img src="https://hits.b3log.org/xuexiangjys/xuexiangjys.svg"></a>
