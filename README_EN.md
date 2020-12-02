@@ -1,4 +1,4 @@
-### Keep learning！💪
+### Keep learning, be a better self！💪
 
 | WeChat public number   | juejin     |  zhihu    |  CSDN   |   jianshu   |   segmentfault  |   bilibili      
 |---------|---------|--------- |---------|---------|---------|---------|
