@@ -10,6 +10,8 @@
 
 -  Gitee sync address：https://gitee.com/xuexiangjys
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys)](https://github.com/xuexiangjys)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys)](https://github.com/xuexiangjys)
 
-<a title="Hits" target="_blank" href="https://github.com/xuexiangjys/xuexiangjys"><img src="https://hits.b3log.org/xuexiangjys/xuexiangjys.svg"></a>
+[![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuexiangjys&show_icons=true&layout=compact)](https://github.com/xuexiangjys)
+
+[![Visit stats](https://hits.b3log.org/xuexiangjys/xuexiangjys.svg)](https://github.com/xuexiangjys)
