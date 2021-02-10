@@ -13,7 +13,7 @@
 
 -  码云同步地址：https://gitee.com/xuexiangjys
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys)](https://github.com/xuexiangjys)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys&show_icons=true)](https://github.com/xuexiangjys)  <img src="https://img.rruu.net/image/5f871cffe209c" alt="我的Android开源之旅">
 
 [![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuexiangjys&show_icons=true&layout=compact)](https://github.com/xuexiangjys)
 
