@@ -12,7 +12,7 @@
 
 -  码云同步地址：https://gitee.com/xuexiangjys
 
-Welcome to the QR code below WeChat sweep code, pay attention to my WeChat official account: **我的Android开源之旅**
+欢迎打开微信扫码下方的二维码，关注我的微信公众号：**我的Android开源之旅**
 
 <img src="https://img.rruu.net/image/5f871cffe209c" alt="我的Android开源之旅">
 

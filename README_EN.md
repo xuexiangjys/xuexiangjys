@@ -10,7 +10,7 @@
 
 -  Gitee sync address：https://gitee.com/xuexiangjys
 
-
+Welcome to the QR code below WeChat sweep code, pay attention to my WeChat official account: **我的Android开源之旅**
 
 <img src="https://img.rruu.net/image/5f871cffe209c" alt="我的Android开源之旅">
 
