@@ -10,8 +10,10 @@
 
 -  Gitee sync address：https://gitee.com/xuexiangjys
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys&show_icons=true)](https://github.com/xuexiangjys) <img src="https://img.rruu.net/image/5f871cffe209c" alt="我的Android开源之旅">
 
-[![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuexiangjys&show_icons=true&layout=compact)](https://github.com/xuexiangjys)
+
+<img src="https://img.rruu.net/image/5f871cffe209c" alt="我的Android开源之旅">
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys&show_icons=true)](https://github.com/xuexiangjys) [![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuexiangjys&show_icons=true&layout=compact)](https://github.com/xuexiangjys)
 
 [![Visit stats](https://hits.b3log.org/xuexiangjys/xuexiangjys.svg)](https://github.com/xuexiangjys)

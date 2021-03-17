@@ -2,7 +2,6 @@
 
 [English Introduction](./README_EN.md)
 
-
 | 公众号   | 掘金     |  知乎    |  CSDN   |   简书   |   思否  |   哔哩哔哩  |   今日头条    
 |---------|---------|--------- |---------|---------|---------|---------|---------|
 | [我的Android开源之旅](https://img.rruu.net/image/5f871cffe209c)  |  [点我](https://juejin.im/user/598feef55188257d592e56ed/posts)    |   [点我](https://www.zhihu.com/people/xuexiangjys/posts)       |   [点我](https://xuexiangjys.blog.csdn.net/)  |   [点我](https://www.jianshu.com/u/6bf605575337)  |   [点我](https://segmentfault.com/u/xuexiangjys)  |   [点我](https://space.bilibili.com/483850585)  |   [点我](https://img.rruu.net/image/5ff34ff7b02dd)  
@@ -13,8 +12,10 @@
 
 -  码云同步地址：https://gitee.com/xuexiangjys
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys&show_icons=true)](https://github.com/xuexiangjys)  <img src="https://img.rruu.net/image/5f871cffe209c" alt="我的Android开源之旅">
+Welcome to the QR code below WeChat sweep code, pay attention to my WeChat official account: **我的Android开源之旅**
 
-[![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuexiangjys&show_icons=true&layout=compact)](https://github.com/xuexiangjys)
+<img src="https://img.rruu.net/image/5f871cffe209c" alt="我的Android开源之旅">
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys&show_icons=true)](https://github.com/xuexiangjys)  [![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuexiangjys&show_icons=true&layout=compact)](https://github.com/xuexiangjys)
 
 [![Visit stats](https://hits.b3log.org/xuexiangjys/xuexiangjys.svg)](https://github.com/xuexiangjys)
