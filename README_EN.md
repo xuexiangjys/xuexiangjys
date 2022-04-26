@@ -2,7 +2,7 @@
 
 | WeChat public number   | juejin     |  zhihu    |  CSDN   |   jianshu   |   segmentfault  |   bilibili  |   toutiao          
 |---------|---------|--------- |---------|---------|---------|---------|---------|
-| [我的Android开源之旅](https://s1.ax1x.com/2022/04/26/LbF4tU.png)  |  [Click me](https://juejin.im/user/598feef55188257d592e56ed/posts)    |   [Click me](https://www.zhihu.com/people/xuexiangjys/posts)       |   [Click me](https://xuexiangjys.blog.csdn.net/)  |   [Click me](https://www.jianshu.com/u/6bf605575337)  |   [Click me](https://segmentfault.com/u/xuexiangjys)  |   [Click me](https://space.bilibili.com/483850585)  |   [Click me](https://img.rruu.net/image/5ff34ff7b02dd)  
+| [我的Android开源之旅](https://s1.ax1x.com/2022/04/27/LbG8yt.png)  |  [Click me](https://juejin.im/user/598feef55188257d592e56ed/posts)    |   [Click me](https://www.zhihu.com/people/xuexiangjys/posts)       |   [Click me](https://xuexiangjys.blog.csdn.net/)  |   [Click me](https://www.jianshu.com/u/6bf605575337)  |   [Click me](https://segmentfault.com/u/xuexiangjys)  |   [Click me](https://space.bilibili.com/483850585)  |   [Click me](https://img.rruu.net/image/5ff34ff7b02dd)  
 
 -  Code lover, good at design pattern, architecture design, mobile device communication and app rapid development.
 
@@ -12,7 +12,7 @@
 
 Welcome to the QR code below WeChat sweep code, pay attention to my WeChat official account: **我的Android开源之旅**
 
-<img src="https://s1.ax1x.com/2022/04/26/LbF4tU.png" alt="我的Android开源之旅"/>
+<img src="https://s1.ax1x.com/2022/04/27/LbG8yt.png" alt="我的Android开源之旅"/>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys&show_icons=true)](https://github.com/xuexiangjys) [![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuexiangjys&show_icons=true&layout=compact)](https://github.com/xuexiangjys)
 
