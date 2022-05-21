@@ -14,7 +14,7 @@
 
 欢迎打开微信扫码下方的二维码，关注我的微信公众号：**我的Android开源之旅**
 
-<img src="https://s1.ax1x.com/2022/04/27/LbG8yt.png" alt="我的Android开源之旅"/>
+<img src="https://raw.githubusercontent.com/xuexiangjys/Resource/master/img/qq/weixin_gzh.png" alt="我的Android开源之旅"/>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=xuexiangjys&show_icons=true)](https://github.com/xuexiangjys)  [![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xuexiangjys&show_icons=true&layout=compact)](https://github.com/xuexiangjys)
 
